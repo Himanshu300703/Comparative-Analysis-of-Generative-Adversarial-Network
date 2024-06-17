@@ -29,13 +29,13 @@ CycleGAN - 34.561
 
 # ACGAN Results
 
+![image](https://github.com/Himanshu300703/Comparative-Analysis-of-Generative-Adversarial-Network/assets/91286198/96a65044-ecc7-48e9-81eb-bcc9ecaaa82a)
+
+Fig: Transformed with ACGAN
+
 ![image](https://github.com/Himanshu300703/Comparative-Analysis-of-Generative-Adversarial-Network/assets/91286198/a54aa3a0-1dfb-41f4-a059-6077716dbfad)
 
 Fig: Train and Validation loss of ACGAN 
-
-![image](https://github.com/Himanshu300703/Comparative-Analysis-of-Generative-Adversarial-Network/assets/91286198/d71688ea-2333-42d9-88e4-5007d494ca21)
-
-Fig: Confusion Matrix of ACGAN 
 
 # Cycle GAN Results
 
@@ -48,6 +48,10 @@ Fig: Image with random jitter
 Fig: Transformed with CycleGAN
 
 # Vanilla GAN Results
+
+![image](https://github.com/Himanshu300703/Comparative-Analysis-of-Generative-Adversarial-Network/assets/91286198/1b7fb966-56ac-42c4-9878-86128b8ae96a)
+
+Fig: Vanilla GAN generated brain MRI image
 
 ![image](https://github.com/Himanshu300703/Comparative-Analysis-of-Generative-Adversarial-Network/assets/91286198/ba9ba54b-8dda-4d35-a4ed-9af2f99f39a2)
 
